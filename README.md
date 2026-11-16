@@ -1,5 +1,2 @@
-Phoenix 
-Zeke 
-Christopher
-Hudson
-Noah
+Zeke Garcia
+Christopher Lucero
